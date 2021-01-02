@@ -1,4 +1,4 @@
-# SudoKo-Solver
+# SudoKu-Solver
 Backtracking algorithmic-technique has been used to solve problems recursively.
 
 <<<<<<< HEAD
